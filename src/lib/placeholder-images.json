@@ -1,0 +1,334 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Fisioterapeuta auxiliando paciente.",
+      "imageUrl": "https://i.imgur.com/zgWhqLX.jpeg",
+      "imageHint": "physiotherapy patient"
+    },
+    {
+      "id": "hero-bg-2",
+      "description": "Pessoas em uma aula de hidroginástica.",
+      "imageUrl": "https://i.imgur.com/WwekuCE.jpeg",
+      "imageHint": "water aerobics"
+    },
+    {
+      "id": "hero-bg-3",
+      "description": "Aula de hidroginástica com pessoas sorrindo.",
+      "imageUrl": "https://images.unsplash.com/photo-1625505120608-7f01c35771c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoeWRyb2d5bW5hc3RpY3MlMjBjbGFzc3xlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hydrogymnastics class"
+    },
+    {
+      "id": "hero-bg-4",
+      "description": "Mulher praticando pilates em um aparelho.",
+      "imageUrl": "https://i.imgur.com/3DFoMG5.jpeg",
+      "imageHint": "pilates machine"
+    },
+    {
+      "id": "hero-bg-5",
+      "description": "Criança em aula de natação.",
+      "imageUrl": "https://i.imgur.com/ZY8KkBV.jpeg",
+      "imageHint": "child swimming lesson"
+    },
+    {
+      "id": "hero-bg-6",
+      "description": "Atleta treinando em alta performance.",
+      "imageUrl": "https://i.imgur.com/b73o9C6.jpeg",
+      "imageHint": "athlete training"
+    },
+    {
+      "id": "cta-section-bg",
+      "description": "Ambiente acolhedor do Instituto Target.",
+      "imageUrl": "https://images.unsplash.com/photo-1731514721772-329626f84c8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGluaWMlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clinic interior"
+    },
+    {
+      "id": "physiotherapy-plan",
+      "description": "Imagem para o plano de fisioterapia.",
+      "imageUrl": "https://i.imgur.com/zgWhqLX.jpeg",
+      "imageHint": "physiotherapy hands"
+    },
+    {
+      "id": "swimming-plan",
+      "description": "Imagem para o plano de natação.",
+      "imageUrl": "https://i.imgur.com/WwekuCE.jpeg",
+      "imageHint": "water splash"
+    },
+    {
+      "id": "pilates-plan",
+      "description": "Imagem para o plano de pilates.",
+      "imageUrl": "https://i.imgur.com/3DFoMG5.jpeg",
+      "imageHint": "pilates pose"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA5NTE0NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdHxlbnwwfHx8fDE3NjA4NTQ0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1635768229592-8c2532d33cb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwcHJvZmVzc2lvbmFsfGVufDB8fHx8MTc2MDkzODEzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling professional"
+    },
+    {
+      "id": "team-member-4",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWxlJTIwcHJvZmVzc2lvbmFsfGVufDB8fHx8MTc2MDg4MDUyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male professional"
+    },
+    {
+      "id": "team-member-5",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1691935152206-c11e8ac30000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmZW1hbGUlMjBudXRyaXRpb25pc3R8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female nutritionist"
+    },
+    {
+      "id": "team-member-6",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1683509602596-f04aca698097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaXRuZXNzJTIwdHJhaW5lcnxlbnwwfHx8fDE3NjA4ODE0MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness trainer"
+    },
+    {
+      "id": "team-member-7",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMGRvY3RvcnxlbnwwfHx8fDE3NjA4OTU3MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman doctor"
+    },
+    {
+      "id": "team-member-8",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/photo-1740153204804-200310378f2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmllbmRseSUyMHJlY2VwdGlvbmlzdHxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friendly receptionist"
+    },
+    {
+      "id": "team-member-9",
+      "description": "Retrato de um membro da equipe.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1559475555-b26777ed3ab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYWxlJTIwdGVhY2hlcnxlbnwwfHx8fDE3NjA4ODIyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male teacher"
+    },
+    {
+      "id": "physio-gallery-1",
+      "description": "Fisioterapeuta aplicando técnica em paciente.",
+      "imageUrl": "https://images.unsplash.com/photo-1690123098181-41104bf9fdd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGh5c2lvdGhlcmFweSUyMHRyZWF0bWVudHxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physiotherapy treatment"
+    },
+    {
+      "id": "physio-gallery-2",
+      "description": "Paciente fazendo exercício de reabilitação com bola.",
+      "imageUrl": "https://images.unsplash.com/photo-1570174006382-148305ce4972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWhhYmlsaXRhdGlvbiUyMGV4ZXJjaXNlfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rehabilitation exercise"
+    },
+    {
+      "id": "physio-gallery-3",
+      "description": "Equipamento moderno de fisioterapia.",
+      "imageUrl": "https://images.unsplash.com/photo-1717500252010-d708ec89a0a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaHlzaW90aGVyYXB5JTIwZXF1aXBtZW50fGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physiotherapy equipment"
+    },
+    {
+      "id": "swim-gallery-1",
+      "description": "Vista da piscina aquecida e coberta.",
+      "imageUrl": "https://images.unsplash.com/photo-1676302144341-10563603f99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBwb29sfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indoor pool"
+    },
+    {
+      "id": "swim-gallery-2",
+      "description": "Aula de natação para crianças.",
+      "imageUrl": "https://images.unsplash.com/photo-1726800820564-2eaecaa66b37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxraWRzJTIwc3dpbW1pbmclMjBsZXNzb258ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kids swimming lesson"
+    },
+    {
+      "id": "swim-gallery-3",
+      "description": "Grupo de adultos em aula de hidroginástica.",
+      "imageUrl": "https://images.unsplash.com/photo-1541689186060-3b08be2fd22f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YXRlciUyMGFlcm9iaWNzfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water aerobics"
+    },
+    {
+      "id": "pilates-gallery-1",
+      "description": "Estúdio de pilates com equipamentos.",
+      "imageUrl": "https://images.unsplash.com/photo-1717500252297-b09508db7ceb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwaWxhdGVzJTIwc3R1ZGlvfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pilates studio"
+    },
+    {
+      "id": "pilates-gallery-2",
+      "description": "Pessoa se exercitando no aparelho reformer.",
+      "imageUrl": "https://images.unsplash.com/photo-1747239685045-fcbcf98985db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaWxhdGVzJTIwcmVmb3JtZXJ8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pilates reformer"
+    },
+    {
+      "id": "pilates-gallery-3",
+      "description": "Aula de pilates em solo.",
+      "imageUrl": "https://images.unsplash.com/photo-1731325632903-a8674f1a7a15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYXQlMjBwaWxhdGVzfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mat pilates"
+    },
+    {
+      "id": "kids-gallery-1",
+      "description": "Crianças brincando na piscina durante a aula.",
+      "imageUrl": "https://i.imgur.com/ZY8KkBV.jpeg",
+      "imageHint": "child swimming"
+    },
+    {
+      "id": "kids-gallery-2",
+      "description": "Professor interagindo com crianças na água.",
+      "imageUrl": "https://images.unsplash.com/photo-1584791839079-9e8a4b9697bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGlsZHJlbiUyMHdhdGVyJTIwYWN0aXZpdHl8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children water activity"
+    },
+    {
+      "id": "kids-gallery-3",
+      "description": "Criança sorridente com boia na piscina.",
+      "imageUrl": "https://images.unsplash.com/photo-1544833381-26da57802c2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGlsZCUyMHBvb2wlMjBzYWZldHl8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "child pool safety"
+    },
+    {
+      "id": "contact-carousel-1",
+      "description": "Foto da equipe do Instituto Target.",
+      "imageUrl": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjB0ZWFtfGVufDB8fHx8MTc2MDg4MzM1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional team"
+    },
+    {
+      "id": "contact-carousel-2",
+      "description": "Foto do espaço interno da clínica.",
+      "imageUrl": "https://images.unsplash.com/photo-1645026675464-a41ada8ac025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbGluaWMlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clinic interior"
+    },
+    {
+      "id": "contact-carousel-3",
+      "description": "Foto da recepção do Instituto Target.",
+      "imageUrl": "https://images.unsplash.com/photo-1553369728-15ec6971afaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVjZXB0aW9uJTIwZGVza3xlbnwwfHx8fDE3NjA4Njc2NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reception desk"
+    },
+    {
+      "id": "feedback-avatar-1",
+      "description": "Avatar de cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYwOTE3NDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "feedback-avatar-2",
+      "description": "Avatar de cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA5MjE0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "feedback-avatar-3",
+      "description": "Avatar de cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MDk0MDg0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "feedback-avatar-4",
+      "description": "Avatar de cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1725866546799-4cc16f6cba23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2MDkyNzY2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "feedback-avatar-5",
+      "description": "Avatar de cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1627622718888-1c8f96aadbbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzZW5pb3IlMjB3b21hbnxlbnwwfHx8fDE3NjA4NzcyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "senior woman"
+    },
+    {
+      "id": "feedback-avatar-6",
+      "description": "Avatar de cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1663576748367-4ff6bec25639?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhdGhsZXRlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYwODU2MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "athlete portrait"
+    },
+    {
+      "id": "feedback-carousel-1",
+      "description": "Cliente sorrindo durante sessão de fisioterapia.",
+      "imageUrl": "https://images.unsplash.com/photo-1684607632041-32d729cdee35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoYXBweSUyMHBhdGllbnR8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy patient"
+    },
+    {
+      "id": "feedback-carousel-2",
+      "description": "Ambiente da clínica com clientes.",
+      "imageUrl": "https://images.unsplash.com/photo-1632725701167-6bad8348d35c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGluaWMlMjBlbnZpcm9ubWVudHxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clinic environment"
+    },
+    {
+      "id": "feedback-carousel-3",
+      "description": "Interação positiva entre profissional e cliente.",
+      "imageUrl": "https://images.unsplash.com/photo-1758524944783-0ec215baf777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0aGVyYXBpc3QlMjBjbGllbnR8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "therapist client"
+    },
+    {
+      "id": "feedback-carousel-4",
+      "description": "Mulher em aula de pilates.",
+      "imageUrl": "https://images.unsplash.com/photo-1517637633369-e4cc28755e01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGlsYXRlcyUyMGNsYXNzfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pilates class"
+    },
+    {
+      "id": "feedback-carousel-5",
+      "description": "Pessoa nadando na piscina.",
+      "imageUrl": "https://images.unsplash.com/photo-1714834654357-f4cab4a8e871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzd2ltbWluZyUyMHBlcnNvbnxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "swimming person"
+    },
+    {
+      "id": "feedback-carousel-6",
+      "description": "Idosos em aula de hidroginástica.",
+      "imageUrl": "https://images.unsplash.com/photo-1615794239747-49e7d398a930?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzZW5pb3JzJTIwaHlkcm9neW1uYXN0aWNzfGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "seniors hydrogymnastics"
+    },
+    {
+      "id": "feedback-carousel-7",
+      "description": "Criança em aula de natação.",
+      "imageUrl": "https://images.unsplash.com/photo-1721571389052-9f65bc5f24b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGlsZCUyMHN3aW1taW5nJTIwbGVzc29ufGVufDB8fHx8MTc2MDk2NDI0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "child swimming lesson"
+    },
+    {
+      "id": "feedback-carousel-8",
+      "description": "Paciente satisfeito com fisioterapeuta.",
+      "imageUrl": "https://picsum.photos/seed/feedback8/1920/1080",
+      "imageHint": "satisfied patient"
+    },
+    {
+      "id": "feedback-carousel-9",
+      "description": "Grupo de pessoas sorrindo na recepção.",
+      "imageUrl": "https://images.unsplash.com/photo-1541475074124-af32f4cb0dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoYXBweSUyMGNsaWVudHN8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy clients"
+    },
+    {
+      "id": "feedback-carousel-10",
+      "description": "Detalhe de equipamento de fisioterapia.",
+      "imageUrl": "https://images.unsplash.com/photo-1657803721116-62cf4b6bad71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwaHlzaW8lMjBlcXVpcG1lbnR8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physio equipment"
+    },
+    {
+      "id": "feedback-carousel-11",
+      "description": "Vista da piscina do Instituto Target.",
+      "imageUrl": "https://images.unsplash.com/photo-1756726597936-199d97b85e3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb29sJTIwdmlld3xlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pool view"
+    },
+    {
+      "id": "feedback-carousel-12",
+      "description": "Mulher fazendo exercício de pilates.",
+      "imageUrl": "https://images.unsplash.com/photo-1754257320362-5982d5cd58ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwaWxhdGVzJTIwZXhlcmNpc2V8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pilates exercise"
+    },
+    {
+      "id": "feedback-carousel-13",
+      "description": "Sorrido de uma cliente satisfeita.",
+      "imageUrl": "https://images.unsplash.com/photo-1729010856587-6c59d243da80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjbGllbnQlMjBzbWlsZXxlbnwwfHx8fDE3NjA5NjQyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "client smile"
+    },
+    {
+      "id": "feedback-carousel-14",
+      "description": "Atleta em reabilitação.",
+      "imageUrl": "https://images.unsplash.com/photo-1663859916726-f129ceb2cab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhdGhsZXRlJTIwcmVoYWJ8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "athlete rehab"
+    },
+    {
+      "id": "feedback-carousel-15",
+      "description": "Aula de natação para bebês.",
+      "imageUrl": "https://images.unsplash.com/photo-1726800789235-e2c75e169eae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYWJ5JTIwc3dpbW1pbmd8ZW58MHx8fHwxNzYwOTY0MjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "baby swimming"
+    }
+  ]
+}
